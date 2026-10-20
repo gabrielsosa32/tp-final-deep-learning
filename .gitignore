@@ -1,0 +1,5 @@
+GoogleNews-vectors-negative300.bin
+*.bin
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
